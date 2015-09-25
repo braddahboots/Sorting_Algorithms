@@ -1,0 +1,23 @@
+{
+  "name": "sorting_algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braddahboots/Sorting_Algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braddahboots/Sorting_Algorithms/issues"
+  },
+  "homepage": "https://github.com/braddahboots/Sorting_Algorithms#readme",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
